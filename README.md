@@ -35,7 +35,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 ### Project Manager 
 Oversees timeline, coordinates team, and manages deliverables
 
-###Frontend Developers 
+### Frontend Developers 
 Implements UI components, ensures responsive design
 
 ### Backend Developers
